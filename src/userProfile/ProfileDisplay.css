@@ -1,0 +1,29 @@
+.profileDisplay {
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    margin-top: 10px;
+    font-weight: 700;
+  }
+  
+  .profileDisplay img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
+  .profileDisplay h2, .profileDisplay h3 {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+  }
+  
+  .profileDisplay p {
+    font-size: 14px;
+    color: #666;
+  }
+  .profile-name{
+  font-weight:800;
+  }
+  
